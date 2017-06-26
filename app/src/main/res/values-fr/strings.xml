@@ -33,8 +33,8 @@
     <string name="progress_loading">Chargement&#8230;</string>
     <string name="error_loading_currency">Échec de la mise à jour des taux de change.n\nVeuillez vérifier votre connexion internet et réessayer.</string>
 
-    <string name="toast_error_billing_internet">Oops, il y a eut un problème. Vérifiez que votre connexion internet fonctionne et réessayez SVP.</string>
-    <string name="toast_error_billing_general">Oops, il y a eut un problème. Réessayez SVP.</string>
+    <string name="toast_error_billing_internet">Oops, il y a eu un problème. Vérifiez que votre connexion internet fonctionne et réessayez SVP.</string>
+    <string name="toast_error_billing_general">Oops, il y a eu un problème. Réessayez SVP.</string>
     <string name="toast_donation_successful">Merci pour votre don!</string>
     <string name="toast_error_no_browser">Aucun navigateur internet trouvé</string>
     <string name="toast_error_no_email_app">Aucune application de mail trouvée</string>
@@ -67,7 +67,7 @@
     <string name="dialog_btn_got_it">Compris</string>
     <string name="dialog_title_help">Aide</string>
     <string name="dialog_message_help">Utilisez le volet glissant dans l\'application pour choisir le type d\'unité à convertir.\n\nLa valeur convertie est totalement paramétrable. Utilisez les réglages dans le menu pour choisir le nombre de décimales à afficher, le séparateur de groupe ou le symbole de la décimale.\n\n Un appui long sur la valeur convertie la copie dans le presse-papier.</string>
-    <string name="dialog_btn_view_source">Voir les Sources</string>
+    <string name="dialog_btn_view_source">Voir les sources</string>
 
     <!-- Conversions -->
     <string name="area">Aire</string>
